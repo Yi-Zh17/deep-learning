@@ -2,7 +2,7 @@
 
 ### MLP & CNN_MNIST: 
 
-these are two sanity check projects that apply CNN and MLP to MNIST dataset.
+These are two sanity check projects that apply CNN and MLP to MNIST dataset.
 
 ### CNN_Rice:
 
